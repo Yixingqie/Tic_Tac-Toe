@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="b1" />
+    <string name="b2" />
+    <string name="b3" />
+    <string name="b4" />
+    <string name="b5" />
+    <string name="b6" />
+    <string name="b7" />
+    <string name="b8" />
+    <string name="b9" />
+    <string name="button1">b1</string>
+</resources>
